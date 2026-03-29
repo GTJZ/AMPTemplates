@@ -3,7 +3,7 @@
         "UpdateStageName": "",
         "UpdateSourcePlatform": "All",
         "UpdateSource": "SteamCMD",
-        "UpdateSourceArgs": "3951240",
+        "UpdateSourceData": "3951240",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
         "ForceDownloadPlatform": "Windows",
